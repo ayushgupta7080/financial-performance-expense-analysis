@@ -1,0 +1,17 @@
+Date,Department,Expense_Category,Expense_Amount,Revenue,Region
+05-01-2023,Sales,Marketing,45000,180000,North
+10-01-2023,IT,Software,30000,0,North
+15-01-2023,HR,Salaries,40000,0,North
+20-01-2023,Operations,Utilities,15000,0,North
+05-02-2023,Sales,Travel,20000,210000,East
+10-02-2023,Marketing,Marketing,60000,0,East
+15-02-2023,IT,Salaries,50000,0,East
+20-02-2023,Operations,Rent,25000,0,East
+05-03-2023,Sales,Marketing,55000,260000,West
+10-03-2023,IT,Software,35000,0,West
+15-03-2023,HR,Salaries,42000,0,West
+20-03-2023,Operations,Utilities,18000,0,West
+05-04-2023,Sales,Travel,30000,300000,South
+10-04-2023,Marketing,Marketing,70000,0,South
+15-04-2023,IT,Salaries,52000,0,South
+20-04-2023,Operations,Rent,28000,0,South
