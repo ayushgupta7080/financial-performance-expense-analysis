@@ -26,26 +26,27 @@ To analyze financial data across departments and regions in order to:
 
 ## 📂 Project Structure
 
-financial-performance-expense-analysis/
+```
+Financial Performance & Expense Analysis/
 │
 ├── data/
-│ └── financial_data.csv
+│   └── financial_data.csv
 │
 ├── notebooks/
-│ └── financial_performance_analysis.ipynb
+│   └── financial_performance_analysis.ipynb
 │
 ├── sql/
-│ └── financial_analysis.sql
+│   └── financial_analysis.sql
 │
 ├── powerbi/
-│ └── Financial_Performance_Expense_Analysis.pbix
+│   └── Financial_Performance_Expense_Analysis.pbix
 │
 ├── screenshots/
-│ ├── kpi_cards.png
-│ ├── monthly_profit_trend.png
-│ ├── department_expense.png
-│ ├── expense_category_breakdown.png
-│ └── region_filter.png
+│   ├── kpi_cards.png
+│   ├── monthly_profit_trend.png
+│   ├── department_expense.png
+│   ├── expense_category_breakdown.png
+│   └── region_filter.png
 │
 └── README.md
 
@@ -110,3 +111,4 @@ Refer to the `screenshots/` folder for visuals of the Power BI dashboard.
 Aspiring Data Analyst | Finance & Business Analytics  
 GitHub: https://github.com/ayushgupta7080  
 LinkedIn: https://www.linkedin.com/in/ayush-gupta-b55b92363
+
